@@ -53,11 +53,9 @@ function createCat(arr) {
   return [
     `      
   <img src="${url}" alt="${name}" width = 300 loading="lazy">
-  <div class="text-style">
     <h2>${name}</h2>
     <p>${description}</p>
     <p><b>Temperament:</b> ${temperament}</p>
-  </div>
   `,
   ];
 }
