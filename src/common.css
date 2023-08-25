@@ -1,5 +1,8 @@
 .cat-info {
   display: flex;
   padding-top: 10px;
-  flex-direction: column;
+}
+
+.text-style {
+  padding: 30px;
 }
